@@ -1,4 +1,4 @@
-#Inter Process Synhronization
+# Inter Process Synhronization
 
 In this assignment you are expected to simulate and solve “DEU Dolmuş Taxi” synchronization problem, which its details are given. 
 
